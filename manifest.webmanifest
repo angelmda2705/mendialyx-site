@@ -1,0 +1,15 @@
+{
+  "name": "Mendialyx AI",
+  "short_name": "Mendialyx",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030914",
+  "theme_color": "#030914",
+  "icons": [
+    {
+      "src": "assets/mendialyx-mark.png",
+      "sizes": "405x415",
+      "type": "image/png"
+    }
+  ]
+}
